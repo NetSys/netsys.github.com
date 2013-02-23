@@ -4,4 +4,4 @@ title: Network Component Dependency Inference
 layout: default
 
 ---
-is lead by Scott Marshall.
+is led by Scott Marshall.
