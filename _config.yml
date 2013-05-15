@@ -1,7 +1,7 @@
 # Jekyll
 permalink: /:year/:title/
 paginate: 10
-exclude:
+exclude: []
 name: NetSys Projects
 baseurl:
 auto: true
