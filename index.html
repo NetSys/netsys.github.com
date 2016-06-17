@@ -3,9 +3,8 @@ layout: nil
 is_index: true
 ---
 
-
 {% include header.html %}
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
       {% include post.html %}
     {% endfor %}
 {% include footer.html %}
